@@ -186,7 +186,7 @@ h4 {
 	align-items: center;
 
 }
-@media only screen and (max-width: 415px){
+@media only screen and (max-width: 1284px){
     .flex_header .logo {
         width: 80px;
         /* margin-left: 20px; */
@@ -357,6 +357,7 @@ h4 {
     -webkit-transform: translateZ(0);
     transform: translateZ(0);
 	overflow-x: auto;
+    overflow-y:hidden;
 	
 }
 .kfm_horizontal{
