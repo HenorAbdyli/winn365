@@ -189,14 +189,15 @@ h4 {
 @media only screen and (max-width: 415px){
     .flex_header .logo {
         width: 80px;
-        padding-left: 40px;
+        /* margin-left: 40px; */
     }
     .flex_header{
         display: flex;
         
     }
-    .flex_header .live{
+    .flex_header .live a{
         margin-left: 40px;
+       
         
     }
 
