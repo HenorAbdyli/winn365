@@ -209,6 +209,9 @@ h4 {
     .flex_header .logo {
         width: 90px;
     }
+    .flex_header .logo img{
+        margin-left: 20px;
+    }
     
 }
 
