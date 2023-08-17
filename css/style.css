@@ -187,32 +187,19 @@ h4 {
 
 }
 @media only screen and (max-width: 390px){
-    /* .logo{
-        width: 90px;
-        
-        
+    .flex_header .logo {
+        width: 80px;
+        /* margin-left: 40px; */
     }
-    .logo img{
-        margin-left: 20px;
-    }
-    .live{
-        margin-left: 25px;
-    }
-    .live a{
-        margin-left: 30px;
-    } */
     .flex_header{
         display: flex;
-        align-items: center;
-        justify-content: space-between;
-    }
-    .flex_header .logo {
-        width: 90px;
-        padding-left: 25px;
+        
     }
     .flex_header .live{
-        margin-left: 30px;
+        margin-left: 40px;
+        
     }
+
     
     
 }
