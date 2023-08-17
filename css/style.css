@@ -189,33 +189,14 @@ h4 {
 @media only screen and (max-width: 390px){
     .logo{
         width: 90px;
-        margin-left: 20px;
+        
     }
-    .live{
-        margin-left: 30px;
+    .live a{
+        margin-left: 20px;
     }
     
 }
-@media only screen and (max-width: 450px){
-    .logo{
-        width: 90px;
-        margin-left: 20px;
-    }
-    .live{
-        margin-left: 30px;
-    }
-    
-}
-@media only screen and (max-width: 500px){
-    .logo{
-        width: 90px;
-        margin-left: 20px;
-    }
-    .live{
-        margin-left: 30px;
-    }
-    
-}
+
 .login{
 	
 }
