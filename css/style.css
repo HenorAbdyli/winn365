@@ -187,16 +187,27 @@ h4 {
 
 }
 @media only screen and (max-width: 390px){
-    .logo{
+    /* .logo{
         width: 90px;
         
         
+    }
+    .logo img{
+        margin-left: 20px;
     }
     .live{
         margin-left: 25px;
     }
     .live a{
         margin-left: 30px;
+    } */
+    .flex_header{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .flex_header .logo {
+        width: 90px;
     }
     
 }
