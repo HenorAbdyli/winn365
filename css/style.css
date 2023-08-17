@@ -186,7 +186,7 @@ h4 {
 	align-items: center;
 
 }
-@media only screen and (max-width: 390px){
+@media only screen and (max-width: 415px){
     .flex_header .logo {
         width: 80px;
         /* margin-left: 40px; */
@@ -203,6 +203,7 @@ h4 {
     
     
 }
+
 
 .login{
 	
