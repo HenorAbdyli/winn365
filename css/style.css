@@ -186,9 +186,17 @@ h4 {
 	align-items: center;
 
 }
-.az{
-	
+@media only screen and (max-width: 390px){
+    .logo{
+        width: 90px;
+        margin-left: 20px;
+    }
+    .live{
+        margin-left: 30px;
+    }
+    
 }
+
 .login{
 	
 }
