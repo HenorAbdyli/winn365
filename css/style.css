@@ -204,6 +204,24 @@ h4 {
     
     
 }
+@media only screen and (max-width: 390px){
+    .flex_header .logo {
+        width: 80px;
+        margin-left: 20px;
+    }
+    .flex_header{
+        display: flex;
+        
+    }
+    .flex_header .live a{
+        margin-left: 40px;
+       
+        
+    }
+
+    
+    
+}
 
 
 
