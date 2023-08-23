@@ -225,6 +225,16 @@ a:hover {
     height: 100%;
 
 }
+.logo::after{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    width: 100%;
+    content: ''; 
+    background-color: #ffdf1b;
+}
+
 
 .live {
     display: flex;
