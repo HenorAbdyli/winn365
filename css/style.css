@@ -223,6 +223,7 @@ a:hover {
     display: flex;
     align-items: center;
     height: 100%;
+    margin-right: 13px;
 
 }
 .logo::after{
@@ -233,6 +234,7 @@ a:hover {
     width: 100%;
     content: ''; 
     background-color: #ffdf1b;
+    
 }
 
 
