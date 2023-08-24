@@ -4,7 +4,8 @@ $(document).ready(function () {
         {
             
             dots: false ,
-            arrows: false
+            arrows: false,
+            autoplay: true,
        
             
             
