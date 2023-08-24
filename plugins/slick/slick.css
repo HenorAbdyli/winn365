@@ -96,3 +96,9 @@
     object-position: left center;
     
 }
+.homeslider{
+    border-top: 3px solid #ffdf1b;
+    border-bottom: 3px solid #ffdf1b;
+    margin: 0;
+    padding: 0;
+}
