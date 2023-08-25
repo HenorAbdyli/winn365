@@ -34,7 +34,7 @@ $(window).on('load', function () {
 // kotat change colors
 
 //   kotat change color End
-javascript
+
 
 
 
